@@ -73,7 +73,7 @@
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
 					<username>venkat_mule</username>
-					<password>Mule@123</password>
+					<password>Sbs@123</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
